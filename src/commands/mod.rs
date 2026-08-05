@@ -1,2 +1,2 @@
-mod ping;
 pub mod me;
+pub mod ping;

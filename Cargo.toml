@@ -4,8 +4,6 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-qqbot_sdk = { path = "./qqbot_sdk" }
-qqbot_sdk_macros = { path = "./qqbot_sdk/qqbot_sdk_macros" }
-tokio = "1.52.1"
 config = "0.15.14"
-serde = { version = "1.0", features = ["derive"] }
+dorimubot-framework = "0.0.3"
+tokio = "1.52.1"
